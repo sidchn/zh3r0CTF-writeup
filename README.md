@@ -61,3 +61,4 @@ we get an employee id use it in nc and get the flag.
 ```
 Flag 6: zh3r0{wasnt_this_awesomeee}
  ```
+The 7th flag could be found by a time-based SQLinjection attack using sqlmap but I didn't think of it at the time of the CTF.
